@@ -1,8 +1,8 @@
 👋 Hi, I’m Marco
 
-Milan, Italy
-Co-founder startup 📲🧔
-Front-end engineer 💻🧔
-Juventus fan ⚽
-Padel player 🎾
+From Milan, Italy <br>
+Co-founder startup 📲🧔 <br>
+Front-end engineer 💻🧔 <br>
+Juventus fan ⚽ <br>
+Padel player 🎾 <br>
 Rap - Dance - Techno - Classical 🎶🎧
